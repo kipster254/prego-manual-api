@@ -1,8 +1,7 @@
-// File 1: package.json
 {
   "name": "prego-manual-api",
   "version": "1.0.0",
-  "description": "Prego Food & Beverage Knowledge Manual API - Prego Overseer System",
+  "description": "Prego Food and Beverage Knowledge Manual API",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -13,14 +12,13 @@
     "cors": "^2.8.5"
   },
   "engines": {
-    "node": ">=16.0.0"
+    "node": ">=18.0.0"
   },
   "keywords": [
     "prego",
     "italian-food",
     "culinary",
     "knowledge",
-    "api",
-    "overseer"
+    "api"
   ]
 }
