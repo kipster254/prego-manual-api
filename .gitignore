@@ -1,0 +1,8 @@
+// File 3: .gitignore
+node_modules/
+.env
+.DS_Store
+*.log
+dist/
+build/
+.vscode/
